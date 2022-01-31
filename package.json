@@ -1,0 +1,22 @@
+{
+  "name": "jest-4-fun-rpg",
+  "version": "1.0.0",
+  "description": "Role Playing Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnugglesMcGee/jest-4-fun-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnugglesMcGee/jest-4-fun-RPG/issues"
+  },
+  "homepage": "https://github.com/SnugglesMcGee/jest-4-fun-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
